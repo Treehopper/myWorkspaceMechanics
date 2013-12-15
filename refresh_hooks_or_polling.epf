@@ -1,5 +1,5 @@
 # @title Use native hooks or polling for refresh
-# @description Avoid slow refresh.
+# @description Avoid slow refresh in Windows: Bug 108697, Bug 237344
 # @task_type RECONCILE
 file_export_version=3.0
 /instance/org.eclipse.core.resources/refresh.enabled=true
