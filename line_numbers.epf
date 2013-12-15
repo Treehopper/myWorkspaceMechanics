@@ -1,0 +1,5 @@
+# @title Set line numbers
+# @description Always display line numbers.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
