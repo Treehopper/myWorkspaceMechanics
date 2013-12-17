@@ -1,0 +1,5 @@
+# @title Bread crumbs
+# @description Display bread crumb in JDT editor.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
