@@ -1,5 +1,5 @@
-# @title Set the classic theme
+# @title Use Stepfilters
 # @description Sets the classic theme.
 # @task_type RECONCILE
 file_export_version=3.0
-/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_classic
+/instance/org.eclipse.debug.core/org.eclipse.debug.core.USE_STEP_FILTERS=true
