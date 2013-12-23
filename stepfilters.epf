@@ -1,5 +1,8 @@
 # @title Use Stepfilters
-# @description Sets the classic theme.
+# @description Activates step filters for java.*,javax.*,java.lang.ClassLoader
 # @task_type RECONCILE
 file_export_version=3.0
 /instance/org.eclipse.debug.core/org.eclipse.debug.core.USE_STEP_FILTERS=true
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.active_filters=java.*,javax.*,java.lang.ClassLoader
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.inactive_filters=com.ibm.*,com.sun.*,jrockit.*,org.omg.*,sun.*,sunw.*
+file_export_version=3.0
