@@ -1,0 +1,11 @@
+# @title Clean Code Save Actions
+# @description Remove whitespace from edited lines as well as unused imports etc.
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.correct_indentation=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code_changes_only=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.on_save_use_additional_actions=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_trailing_whitespaces=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_imports=true
