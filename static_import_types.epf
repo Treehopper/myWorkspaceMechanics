@@ -1,0 +1,5 @@
+# @title Content assist for common static imports
+# @description E.g. typing "check"<Ctrl+Space> will offer a selection of static imports for the Guava preconditions.
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.google.common.base.Preconditions.*;org.apache.commons.lang.StringUtils.*;org.hamcrest.Matchers.*;org.hamcrest.CoreMatchers.*;org.junit.*;org.junit.Assert.*;org.junit.Assume.*;org.junit.matchers.JUnitMatchers.*
