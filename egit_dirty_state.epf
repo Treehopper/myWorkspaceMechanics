@@ -1,0 +1,24 @@
+# @title EGit dirty state
+# @description Mark resources as dirty using an icon instead of text to avoid messy indentation in package explorer.
+# @task_type RECONCILE
+file_export_version=3.0
+
+\!/instance/org.eclipse.egit.ui=
+file_export_version=3.0
+@org.eclipse.egit.ui=3.0.3.201309161630-r
+/instance/org.eclipse.egit.ui/decorator_filetext_decoration={name}
+
+\!/instance/org.eclipse.egit.ui=
+file_export_version=3.0
+@org.eclipse.egit.ui=3.0.3.201309161630-r
+/instance/org.eclipse.egit.ui/decorator_foldertext_decoration={name}
+
+\!/instance/org.eclipse.egit.ui=
+file_export_version=3.0
+/instance/org.eclipse.egit.ui/decorator_projecttext_decoration={name}  [{repository} {branch}{ branch_status}]
+@org.eclipse.egit.ui=3.0.3.201309161630-r
+
+\!/instance/org.eclipse.egit.ui=
+file_export_version=3.0
+@org.eclipse.egit.ui=3.0.3.201309161630-r
+/instance/org.eclipse.egit.ui/decorator_show_dirty_icon=true
