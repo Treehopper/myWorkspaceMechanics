@@ -1,0 +1,5 @@
+# @title Formatter Max Line Length
+# @description Eclipse Mars default line length
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.ant.ui/formatter_max_line_length=120
