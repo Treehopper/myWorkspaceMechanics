@@ -1,0 +1,5 @@
+# @title Show active target platform
+# @description Always show active target platform in status bar
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.pde.ui/Preferences.MainPage.showTargetStatus=true
